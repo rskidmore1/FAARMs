@@ -63,39 +63,41 @@
 	<!-- contact form -->
 	<!-- NOTE: form does not work -->
 	<!-- -Set up a working form -->
+
+
+<form action="contact.php" method="post">
 	<div class="input-group">
 	  <span class="input-group-addon" id="basic-addon1">Name</span>
-	  <input type="text" class="form-control" placeholder="Enter your name" aria-describedby="basic-addon1">
+	  <input type="text" class="form-control" name="cf_name" placeholder="Enter your name" aria-describedby="basic-addon1">
 	</div>
 	<br>
 	<div class="input-group">
 	  <span class="input-group-addon" id="basic-addon2">Email</span>
-	  <input type="text" class="form-control" placeholder="Enter your email address" aria-describedby="basic-addon2">
+	  <input type="text" class="form-control" name="cf_email" placeholder="Enter your email address" aria-describedby="basic-addon2">
 	</div>
 	<br>
 	<div class="input-group">
 	  <span class="input-group-addon" id="basic-addon3">Message</span>
-	  <input type="text" class="form-control" placeholder="Tell us what you think" aria-describedby="basic-addon3">
+	  <input type="text" class="form-control" name="cf_message" placeholder="Tell us what you think" aria-describedby="basic-addon3">
+	</div>
+	<input type="submit" value="Send">
+	<input type="reset" value="Clear">
+</form>
+
+
+<!--s="input-group">
+	  <span class="input-group-addon" id="basic-addon1">Name</span>
+	  <input type="text" class="form-control" placeholder="Enter your name" aria-describedby="basic-addon1">
 	</div>
 	<br>
-	<button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false">
-	  Single toggle
-	</button>
+	<d -->
+
 	<!-- end contact form -->    
 
 
 
-<form action="contact.php" method="post">
-	Your name<br>
-    <input type="text" name="cf_name"><br>
-	Your e-mail<br>
-    <input type="text" name="cf_email"><br>
-	Message<br>
-    <textarea name="cf_message"></textarea><br>
-	<input type="submit" value="Send">
-	<input type="reset" value="Clear"
 
-    <hr>
+    <hr>	
 
 	<footer>
 		<p>&copy; FAARMs 2015</p>
