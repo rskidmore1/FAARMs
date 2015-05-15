@@ -9,6 +9,7 @@ $(document).ready(function() {
 		}											
 	});
 
+
 	$('#nav li a').click(function(){ /* not sure yet*/
 								  
 		var toLoad = $(this).attr('href')+' #content'; /* not sure yet */
@@ -29,5 +30,9 @@ $(document).ready(function() {
 		return false;
 		
 	});
-
+	$('div').click(function(){
+		$(this).animate({left: '+=10px'}, 500) 
+		
+	}); 
+		
 });
