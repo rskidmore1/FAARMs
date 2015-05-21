@@ -1,3 +1,10 @@
 These are the sites and tutorials that code and info was untilized from
 URL
-  Use 
+
+Use:
+http://getbootstrap.com/ for general html and css
+http://startbootstrap.com/template-overviews/thumbnail-gallery/ for gallery
+http://nettuts.s3.amazonaws.com/011_jQuerySite/sample/index.html for Equipment Calc
+http://www.elated.com/articles/drag-and-drop-with-jquery-your-essential-guide/ for Equipment Placement 
+http://www.templatemonster.com/help/how-create-contact-form-html.html followed for contact form
+http://www.computerhope.com/j19.htm for password protected form
