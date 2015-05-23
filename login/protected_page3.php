@@ -53,90 +53,90 @@ sec_session_start();
 			</div>
 
 			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-				<a class="thumbnail" href="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird6.jpg">
-					<img class="img-responsive" src="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird6.jpg" alt="">
+				<a class="thumbnail" href="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png">
+					<img class="img-responsive" src="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png" alt="">
 				</a>
 			</div>
 			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-				<a class="thumbnail" href="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird2.jpg">
-					<img class="img-responsive" src="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird2.jpg" alt="">
+				<a class="thumbnail" href="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png">
+					<img class="img-responsive" src="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png" alt="">
 				</a>
 			</div>
 			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-				<a class="thumbnail" href="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird3.jpg">
-					<img class="img-responsive" src="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird3.jpg" alt="">
+				<a class="thumbnail" href="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png">
+					<img class="img-responsive" src="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png" alt="">
 				</a>
 			</div>
 			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-				<a class="thumbnail" href="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird4.jpg">
-					<img class="img-responsive" src="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird4.jpg" alt="gallery1">
+				<a class="thumbnail" href="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png">
+					<img class="img-responsive" src="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png" alt="gallery1">
 				</a>
 			</div>
 			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-				<a class="thumbnail" href="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird5.jpg">
-					<img class="img-responsive" src="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird5.jpg" alt="gallery2">
+				<a class="thumbnail" href="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png">
+					<img class="img-responsive" src="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png" alt="gallery2">
 				</a>
 			</div>
 			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-				<a class="thumbnail" href="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird7.jpg">
-					<img class="img-responsive" src="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird7.jpg" alt="gallery3">
+				<a class="thumbnail" href="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png">
+					<img class="img-responsive" src="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png" alt="gallery3">
 				</a>
 			</div>
 			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-				<a class="thumbnail" href="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird8.jpg">
-					<img class="img-responsive" src="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird8.jpg" alt="gallery4">
+				<a class="thumbnail" href="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png">
+					<img class="img-responsive" src="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png" alt="gallery4">
 				</a>
 			</div>
 			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-				<a class="thumbnail" href="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird9.jpg">
-					<img class="img-responsive" src="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird9.jpg" alt="gallery5">
+				<a class="thumbnail" href="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png">
+					<img class="img-responsive" src="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png" alt="gallery5">
 				</a>
 			</div>
 			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-				<a class="thumbnail" href="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird19.jpg">
-					<img class="img-responsive" src="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird19.jpg" alt="gallery6">
+				<a class="thumbnail" href="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png">
+					<img class="img-responsive" src="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png" alt="gallery6">
 				</a>
 			</div>
 			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-				<a class="thumbnail" href="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird10.jpg">
-					<img class="img-responsive" src="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird10.jpg" alt="gallery7">
+				<a class="thumbnail" href="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png">
+					<img class="img-responsive" src="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png" alt="gallery7">
 				</a>
 			</div>
 			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-				<a class="thumbnail" href="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird11.jpg">
-					<img class="img-responsive" src="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird11.jpg" alt="gallery8">
+				<a class="thumbnail" href="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png">
+					<img class="img-responsive" src="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png" alt="gallery8">
 				</a>
 			</div>
 			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-				<a class="thumbnail" href="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird12.jpg">
-					<img class="img-responsive" src="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird12.jpg" alt="gallery9">
+				<a class="thumbnail" href="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png">
+					<img class="img-responsive" src="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png" alt="gallery9">
 				</a>
 			</div>
 			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-				<a class="thumbnail" href="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird13.jpg">
-					<img class="img-responsive" src="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird13.jpg" alt="">
+				<a class="thumbnail" href="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png">
+					<img class="img-responsive" src="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png" alt="">
 				</a>
 			</div>
 			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-				<a class="thumbnail" href="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird14.jpg">
-					<img class="img-responsive" src="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird14.jpg" alt="">
+				<a class="thumbnail" href="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png">
+					<img class="img-responsive" src="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png" alt="">
 				</a>
 			</div>
 			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-				<a class="thumbnail" href="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird15.jpg">
-					<img class="img-responsive" src="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird15.jpg" alt="">
+				<a class="thumbnail" href="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png">
+					<img class="img-responsive" src="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png" alt="">
 				</a>
 			</div>
 			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-				<a class="thumbnail" href="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird20.jpg">
-					<img class="img-responsive" src="http://cdn77.sadanduseless.com/wp-content/uploads/2014/05/weird20.jpg" alt="gallery1">
+				<a class="thumbnail" href="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png">
+					<img class="img-responsive" src="http://nchouse116.com/wp-content/uploads/sites/4/2013/03/confidential.png" alt="">
 				</a>
 			</div>
 		</div>
 		<!-- gallery end --> 
 
 	 </div>
-            <p>Return to <a href="index.php">login page</a></p>
+            <p>Return to <a href="protected_page.php">menu</a></p>
         <?php else : ?>
             <p>
                 <span class="error">You are not authorized to access this page.</span> Please <a href="index.php">login</a>.

@@ -16,13 +16,13 @@ sec_session_start();
             <p>Welcome <?php echo htmlentities($_SESSION['username']); ?>!</p>
             <p>
                 This is an example protected page.  To access this page, users
-                must be logged in.  At some stage, we'll also check the role of
-                the user, so pages will be able to determine the type of user
-                authorised to access the page.
+                must be logged in.  
             </p>
-			<p>GO to another page<a href="protected_page2.php">YA!</a>
-			<p>GO to WEIRD PICTURES! WHOOOO!<a href="protected_page3.php">A'GO!</a>
+			<p>Confidential farm information.<a href="protected_page2.php"> Click.</a>
+			<p>Confidential farm pictures<a href="protected_page3.php"> Click.</a>
             <p>Return to <a href="index.php">login page</a></p>
+            <p>Return to <a href="../home.html">home page</a></p>
+			
         <?php else : ?>
             <p>
                 <span class="error">You are not authorized to access this page.</span> Please <a href="index.php">login</a>.
