@@ -11,7 +11,7 @@ if (login_check($mysqli) == true) {
 }
 ?>
 <!DOCTYPE html>
-<html>
+<html> <!-- This and all subsquent log in pages are based on http://www.wikihow.com/Create-a-Secure-Login-Script-in-PHP-and-MySQL tutorial -->
     <head>
         <title>Secure Login: Log In</title>
         <link rel="stylesheet" href="styles/main.css" />
@@ -44,6 +44,7 @@ if (login_check($mysqli) == true) {
                         echo "<p>If you don't have a login, please <a href='register.php'>register</a></p>";
                 }
 ?>      
+<p> Cheat!!! email:faarmsproject@gmail.com pwd:Password1. Just incase you don't want to make an account. </p>
 <p>Return to <a href="../home.html">Home Page</a></p> 
     </body>
 </html>
